@@ -1,0 +1,1 @@
+# ShalabySweets.InventoryManagement
