@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hassan.abdelrahman\\source\\repos\\ShalabySweets.InventoryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC38FC-C1A4-400A-83A4-023D89B714BE}|ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement.csproj|c:\\users\\hassan.abdelrahman\\source\\repos\\shalabysweets.inventorymanagement\\shalabysweets.inventorymanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC38FC-C1A4-400A-83A4-023D89B714BE}|ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement.csproj|solutionrelative:shalabysweets.inventorymanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC38FC-C1A4-400A-83A4-023D89B714BE}|ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement.csproj|c:\\users\\hassan.abdelrahman\\source\\repos\\shalabysweets.inventorymanagement\\shalabysweets.inventorymanagement\\unittype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC38FC-C1A4-400A-83A4-023D89B714BE}|ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement.csproj|solutionrelative:shalabysweets.inventorymanagement\\unittype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC38FC-C1A4-400A-83A4-023D89B714BE}|ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement.csproj|c:\\users\\hassan.abdelrahman\\source\\repos\\shalabysweets.inventorymanagement\\shalabysweets.inventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC38FC-C1A4-400A-83A4-023D89B714BE}|ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement.csproj|solutionrelative:shalabysweets.inventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hassan.abdelrahman\\source\\repos\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\Product.cs",
+              "RelativeDocumentMoniker": "ShalabySweets.InventoryManagement\\Product.cs",
+              "ToolTip": "C:\\Users\\hassan.abdelrahman\\source\\repos\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\Product.cs",
+              "RelativeToolTip": "ShalabySweets.InventoryManagement\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:50:03Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitType.cs",
+              "DocumentMoniker": "C:\\Users\\hassan.abdelrahman\\source\\repos\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\UnitType.cs",
+              "RelativeDocumentMoniker": "ShalabySweets.InventoryManagement\\UnitType.cs",
+              "ToolTip": "C:\\Users\\hassan.abdelrahman\\source\\repos\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\UnitType.cs",
+              "RelativeToolTip": "ShalabySweets.InventoryManagement\\UnitType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:50:01.197Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hassan.abdelrahman\\source\\repos\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "ShalabySweets.InventoryManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\hassan.abdelrahman\\source\\repos\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\Program.cs",
+              "RelativeToolTip": "ShalabySweets.InventoryManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T07:42:00.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
