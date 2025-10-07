@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hassan.abdelrahman\\source\\repos\\ShalabySweets.InventoryManagement\\",
+  "WorkspaceRootPath": "D:\\Work\\code\\CSharp\\ShalabySweets.InventoryManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0DC38FC-C1A4-400A-83A4-023D89B714BE}|ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement.csproj|c:\\users\\hassan.abdelrahman\\source\\repos\\shalabysweets.inventorymanagement\\shalabysweets.inventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0DC38FC-C1A4-400A-83A4-023D89B714BE}|ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement.csproj|d:\\work\\code\\csharp\\shalabysweets.inventorymanagement\\shalabysweets.inventorymanagement\\domain\\productmanagement\\productpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC38FC-C1A4-400A-83A4-023D89B714BE}|ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement.csproj|solutionrelative:shalabysweets.inventorymanagement\\domain\\productmanagement\\productpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC38FC-C1A4-400A-83A4-023D89B714BE}|ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement.csproj|d:\\work\\code\\csharp\\shalabysweets.inventorymanagement\\shalabysweets.inventorymanagement\\domain\\productmanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC38FC-C1A4-400A-83A4-023D89B714BE}|ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement.csproj|solutionrelative:shalabysweets.inventorymanagement\\domain\\productmanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC38FC-C1A4-400A-83A4-023D89B714BE}|ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement.csproj|d:\\work\\code\\csharp\\shalabysweets.inventorymanagement\\shalabysweets.inventorymanagement\\domain\\general\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC38FC-C1A4-400A-83A4-023D89B714BE}|ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement.csproj|solutionrelative:shalabysweets.inventorymanagement\\domain\\general\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC38FC-C1A4-400A-83A4-023D89B714BE}|ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement.csproj|d:\\work\\code\\csharp\\shalabysweets.inventorymanagement\\shalabysweets.inventorymanagement\\domain\\general\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC38FC-C1A4-400A-83A4-023D89B714BE}|ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement.csproj|solutionrelative:shalabysweets.inventorymanagement\\domain\\general\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC38FC-C1A4-400A-83A4-023D89B714BE}|ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement.csproj|d:\\work\\code\\csharp\\shalabysweets.inventorymanagement\\shalabysweets.inventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0DC38FC-C1A4-400A-83A4-023D89B714BE}|ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement.csproj|solutionrelative:shalabysweets.inventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC38FC-C1A4-400A-83A4-023D89B714BE}|ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement.csproj|d:\\work\\code\\csharp\\shalabysweets.inventorymanagement\\shalabysweets.inventorymanagement\\domain\\productmanagement\\unittype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC38FC-C1A4-400A-83A4-023D89B714BE}|ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement.csproj|solutionrelative:shalabysweets.inventorymanagement\\domain\\productmanagement\\unittype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +39,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductPart.cs",
+              "DocumentMoniker": "D:\\Work\\code\\CSharp\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\Domain\\ProductManagement\\ProductPart.cs",
+              "RelativeDocumentMoniker": "ShalabySweets.InventoryManagement\\Domain\\ProductManagement\\ProductPart.cs",
+              "ToolTip": "D:\\Work\\code\\CSharp\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\Domain\\ProductManagement\\ProductPart.cs",
+              "RelativeToolTip": "ShalabySweets.InventoryManagement\\Domain\\ProductManagement\\ProductPart.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:34:41.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "D:\\Work\\code\\CSharp\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\Domain\\General\\Currency.cs",
+              "RelativeDocumentMoniker": "ShalabySweets.InventoryManagement\\Domain\\General\\Currency.cs",
+              "ToolTip": "D:\\Work\\code\\CSharp\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\Domain\\General\\Currency.cs",
+              "RelativeToolTip": "ShalabySweets.InventoryManagement\\Domain\\General\\Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:55:54.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Price.cs",
+              "DocumentMoniker": "D:\\Work\\code\\CSharp\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\Domain\\General\\Price.cs",
+              "RelativeDocumentMoniker": "ShalabySweets.InventoryManagement\\Domain\\General\\Price.cs",
+              "ToolTip": "D:\\Work\\code\\CSharp\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\Domain\\General\\Price.cs",
+              "RelativeToolTip": "ShalabySweets.InventoryManagement\\Domain\\General\\Price.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:55:20.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitType.cs",
+              "DocumentMoniker": "D:\\Work\\code\\CSharp\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\Domain\\ProductManagement\\UnitType.cs",
+              "RelativeDocumentMoniker": "ShalabySweets.InventoryManagement\\Domain\\ProductManagement\\UnitType.cs",
+              "ToolTip": "D:\\Work\\code\\CSharp\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\Domain\\ProductManagement\\UnitType.cs",
+              "RelativeToolTip": "ShalabySweets.InventoryManagement\\Domain\\ProductManagement\\UnitType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:53:10.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Work\\code\\CSharp\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\Domain\\ProductManagement\\Product.cs",
+              "RelativeDocumentMoniker": "ShalabySweets.InventoryManagement\\Domain\\ProductManagement\\Product.cs",
+              "ToolTip": "D:\\Work\\code\\CSharp\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\Domain\\ProductManagement\\Product.cs*",
+              "RelativeToolTip": "ShalabySweets.InventoryManagement\\Domain\\ProductManagement\\Product.cs*",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAUwKAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:51:28.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hassan.abdelrahman\\source\\repos\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\Program.cs",
+              "DocumentMoniker": "D:\\Work\\code\\CSharp\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\Program.cs",
               "RelativeDocumentMoniker": "ShalabySweets.InventoryManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\hassan.abdelrahman\\source\\repos\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\Program.cs",
+              "ToolTip": "D:\\Work\\code\\CSharp\\ShalabySweets.InventoryManagement\\ShalabySweets.InventoryManagement\\Program.cs",
               "RelativeToolTip": "ShalabySweets.InventoryManagement\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T07:42:00.436Z",
               "EditorCaption": ""
